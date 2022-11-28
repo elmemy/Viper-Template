@@ -8,3 +8,6 @@ VIPER is an architectural pattern like MVC or MVVM, but it separates the code fu
 - The Presenter is the “traffic cop” of the architecture, directing data between the view and interactor, taking user actions and calling to the router to move the user between views.
 - An Entity represents application data.
 - The Router handles navigation between screens.
+
+
+https://user-images.githubusercontent.com/13080678/197004974-4eb28d59-b518-48b5-ad3d-21166297822d.png
